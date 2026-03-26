@@ -41,7 +41,7 @@ The dataset used is the **California Housing Dataset**, which contains **20,640 
 
 ## Data Exploration
 
-* Checked for missing values → ✅ None found
+* Checked for missing values → None found
 * Generated statistical summary using `.describe()`
 * Visualized feature correlations using a heatmap
 
