@@ -1,5 +1,3 @@
-# house-prediction-ml
-
 # California Housing Price Prediction using XGBoost
 
 ## Project Overview
